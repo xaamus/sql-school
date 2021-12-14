@@ -1,0 +1,1 @@
+SELECT nazwisko_a,imie_a FROM autorzy ORDER BY nazwisko_a DESC, imie_a ASC;
