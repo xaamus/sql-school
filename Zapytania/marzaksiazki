@@ -1,1 +1,0 @@
-SELECT tytul, cena, cena*0.5 AS [marza] FROM ksiazki;
